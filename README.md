@@ -1,1 +1,1 @@
-# javascript_practice
+# This is Javascript practice code
