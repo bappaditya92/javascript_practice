@@ -1,4 +1,4 @@
 function message(hello="inside the function"){
     console.log(hello);
 }
-message();
+message("outside the function");
